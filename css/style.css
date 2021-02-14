@@ -55,3 +55,11 @@ body{
 .col-md-8 h1 {
     font-size: 2.4rem;
 }
+
+.qr-image{
+    max-height: 400px;
+}
+
+.donation{
+    font-weight: 700;
+}
