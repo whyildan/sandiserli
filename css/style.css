@@ -29,6 +29,16 @@ body{
     background-position: center;
 }
 
+.caption{
+    position: absolute;
+    top: 88%;
+    width: 100%;
+}
+
+.caption img{
+    height: 60px;
+}
+
 #course{
     font-family: 'Poppins', sans-serif;
 }
