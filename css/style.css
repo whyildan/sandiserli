@@ -63,3 +63,18 @@ body{
 .donation{
     font-weight: 700;
 }
+
+#course2{
+    margin-top: -150px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#course2 h1{
+    font-weight: 600;
+    color: steelblue;
+}
+
+footer .footer{
+    font-family: 'Great Vibes', cursive;
+    font-size: 32px;
+}
